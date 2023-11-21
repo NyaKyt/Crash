@@ -1,1 +1,2 @@
 # Crash
+Author Maksym Kutniak
